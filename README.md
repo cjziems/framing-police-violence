@@ -36,7 +36,7 @@ python -m spacy download en_core_web_sm
 
 ## Project Pipeline
 
-All data is contained in a zip file in the [Dropbox directory](https://www.dropbox.com/sh/632fi7khllnxuns/AAA8CIbDbK2gcELdY9fizNjca?dl=0)
+All data is contained in a zip file in the [Drive directory](https://drive.google.com/file/d/12Kg0PS-kx6q1NR-Vwdfj7cM4yb3LrMqE/view?usp=sharing)
 
 1. Download all data and setup repo by running `bash populate_repo.sh`
 
